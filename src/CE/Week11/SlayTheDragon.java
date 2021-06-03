@@ -1,4 +1,4 @@
-package Week11;
+package CE.Week11;
 import java.util.*;
 
 public class SlayTheDragon {
