@@ -1,7 +1,6 @@
 package CE.Week8;
 
-public class Algorithms {
-    import java.util.ArrayList;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Arrays;
 
