@@ -1,4 +1,4 @@
-package Week1;
+package CE.Week1;
 
 public class driver {
     
