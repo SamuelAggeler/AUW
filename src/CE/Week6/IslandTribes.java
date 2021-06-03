@@ -1,4 +1,4 @@
-package Week6;
+package CE.Week6;
 import java.util.*;
 
 
